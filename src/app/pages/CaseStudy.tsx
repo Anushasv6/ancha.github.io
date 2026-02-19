@@ -2,16 +2,16 @@ import { useParams, useNavigate } from "react-router";
 import { ArrowLeft } from "lucide-react";
 
 // ── Thumbnail images (used as heroes for studies without dedicated hero image) ──
-import imgOneindia from "figma:asset/oneindia.png";
-import imgHotstarThumb from "figma:asset/hotstar-thumb.png";
-import imgTextiles from "figma:asset/textiles.png";
+import imgOneindia from "../../assets/oneindia.png";
+import imgHotstarThumb from "../../assets/hotstar-thumb.png";
+import imgTextiles from "../../assets/textiles.png";
 
 // ── Disney+ Hotstar case study images ──────────────────────────────────────────
-import imgHotstarHero from "figma:asset/hotstar-hero.png";
-import imgHotstar1 from "figma:asset/	hotstar-1.png";
-import imgHotstar2 from "figma:asset/	hotstar-2.png";
-import imgHotstar3 from "figma:asset/	hotstar-3.png";
-import imgHotstar4 from "figma:asset/	hotstar-4.png";
+import imgHotstarHero from "../../assets/hotstar-hero.png";
+import imgHotstar1 from "../../assets/hotstar-1.png";
+import imgHotstar2 from "../../assets/hotstar-2.png";
+import imgHotstar3 from "../../assets/hotstar-3.png";
+import imgHotstar4 from "../../assets/hotstar-4.png";
 
 import caseStudies from "../data/caseStudies";
 
