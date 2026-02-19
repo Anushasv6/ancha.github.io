@@ -2,16 +2,16 @@ import { useParams, useNavigate } from "react-router";
 import { ArrowLeft } from "lucide-react";
 
 // ── Thumbnail images (used as heroes for studies without dedicated hero image) ──
-import imgOneindia from "figma:asset/1ac84b35e4813ee694dcb7885949ea78bd3d05d6.png";
-import imgHotstarThumb from "figma:asset/5e03363da1f9055f09c3dd9cfff0d33a11239483.png";
-import imgTextiles from "figma:asset/1d2f1fb553bf14a0193be32b44161c2ee545325d.png";
+import imgOneindia from "figma:asset/oneindia.png";
+import imgHotstarThumb from "figma:asset/hotstar-thumb.png";
+import imgTextiles from "figma:asset/textiles.png";
 
 // ── Disney+ Hotstar case study images ──────────────────────────────────────────
-import imgHotstarHero from "figma:asset/e8a694607e81b003dcbfa91f6ed9bda1f6738599.png";
-import imgHotstar1 from "figma:asset/99b4f3725a084ab5c68e2b01fd3c943a073af362.png";
-import imgHotstar2 from "figma:asset/3b1973d50860bfbf5b34612f5e8a37e3ac27d344.png";
-import imgHotstar3 from "figma:asset/2bc7b66d4e3ea25f02c7129ab9f374ed200ea65b.png";
-import imgHotstar4 from "figma:asset/3d2a6c6e662db1b7cc5f8f5e841b50a83fe495d1.png";
+import imgHotstarHero from "figma:asset/hotstar-hero.png";
+import imgHotstar1 from "figma:asset/	hotstar-1.png";
+import imgHotstar2 from "figma:asset/	hotstar-2.png";
+import imgHotstar3 from "figma:asset/	hotstar-3.png";
+import imgHotstar4 from "figma:asset/	hotstar-4.png";
 
 import caseStudies from "../data/caseStudies";
 
