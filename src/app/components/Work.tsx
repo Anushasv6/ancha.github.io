@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { useNavigate } from "react-router";
-import imgRectangle1 from "figma:asset/oneindia.png";
-import imgRectangle2 from "figma:asset/hotstar-thumb.png";
-import imgRectangle3 from "figma:asset/textiles.png";
+import imgRectangle1 from "../../assets/oneindia.png";
+import imgRectangle2 from "../../assets/hotstar-thumb.png";
+import imgRectangle3 from "../../assets/textiles.png";
 
 const projects = [
   {
